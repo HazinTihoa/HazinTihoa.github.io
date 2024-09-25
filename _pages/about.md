@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I am currently a Ph.D. student at PRG (Perception and Robotics Group), University of Maryland - College Park, advised by Prof. Yiannis Aloimonos and Dr. Cornelia Fermuller. I am also working with Dr. Ji Zhang in CMU. Formerly I was a visiting student in Fast Lab, Zhejiang University (ZJU), advised by Prof. Fei Gao.
+
+My research interests are perception and motion planning for mobile robots. I am especially interested in systematic solutions that make the robot system actually work in field scenarios. I hope to build a useful robot that can actually enhance someone's life.
+
+I open source most of my research, please check my Github for more infomation.
+If any repository does not work for you, please report an issue or drop me an email. If it does not work at all, please kick me.
+
+If you are interested in my research or would like to have a talk, feel free to drop me an email.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
