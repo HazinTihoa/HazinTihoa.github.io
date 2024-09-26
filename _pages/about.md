@@ -1,27 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-hi! I am currently a research assistant in the fastlab fire group and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. 
+bio
+======
+Hi! I am currently a research assistant in the Fastlab(Fire),Zhejiang University (ZJU) and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. 
 
 Before graduation, I studied robotics at NJIT's All-terrain Vehicle Lab, which requires members to be able to independently build a robotic system.
 
-My research interests are perception and motion planning for mobile robots. I am especially interested in systematic solutions that make the robot system actually work in field scenarios. I hope to build a useful robot that can actually enhance someone's life.
+My research interests are  motion planning and control for mobile robots. 
 
+In the future, I will also expand my research scope to include legged robots or wheeled robots. In my opinion, wheeled robots are the most efficient configuration for robots in artificial environments.
+
+I am very interested in how robots will develop in the future, and I will devote myself to this research direction.
 If you are interested in my research or would like to have a talk, feel free to drop me an email.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces
+Mengke Zhang, Zhihao Tian, Chao Xu,Fei Gao,Yanjun Cao
+
+Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks
+Chice Xuan, Jiadong Lu, Zhihao Tian, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 Getting started
 ======
@@ -54,4 +64,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
