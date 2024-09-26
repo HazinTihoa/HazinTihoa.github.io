@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Ph.D. student at PRG (Perception and Robotics Group), University of Maryland - College Park, advised by Prof. Yiannis Aloimonos and Dr. Cornelia Fermuller. I am also working with Dr. Ji Zhang in CMU. Formerly I was a visiting student in Fast Lab, Zhejiang University (ZJU), advised by Prof. Fei Gao.
+hi! I am currently a research assistant in the fastlab fire group and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. 
+
+Before graduation, I studied robotics at NJIT's All-terrain Vehicle Lab, which requires members to be able to independently build a robotic system.
 
 My research interests are perception and motion planning for mobile robots. I am especially interested in systematic solutions that make the robot system actually work in field scenarios. I hope to build a useful robot that can actually enhance someone's life.
-
-I open source most of my research, please check my Github for more infomation.
-If any repository does not work for you, please report an issue or drop me an email. If it does not work at all, please kick me.
 
 If you are interested in my research or would like to have a talk, feel free to drop me an email.
 
