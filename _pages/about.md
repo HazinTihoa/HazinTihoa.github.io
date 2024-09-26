@@ -7,29 +7,62 @@ redirect_from:
   - /about.html
 ---
 
-bio
+About me 
 ======
-Hi! I am currently a research assistant in the Fastlab(Fire),Zhejiang University (ZJU) and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. 
+<!-- Hi! I am currently a research assistant in the Fastlab(Fire),Zhejiang University (ZJU) and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. Before graduation, I studied robotics at NJIT's All-terrain Vehicle Lab, which requires members to be able to independently build a robotic system.
 
-Before graduation, I studied robotics at NJIT's All-terrain Vehicle Lab, which requires members to be able to independently build a robotic system.
+My research interests are  motion planning and control for mobile robots. In the future, I will also expand my research scope to include legged robots or wheeled robots. In my opinion, wheeled robots are the most efficient configuration for robots in artificial environments.
 
-My research interests are  motion planning and control for mobile robots. 
+I am very interested in how robots will develop in the future, and I will devote myself to this research direction.If you are interested in my research or would like to have a talk, feel free to drop me an email. -->
+Hi! I am currently a research assistant at the Fastlab (Fire) at Zhejiang University (ZJU), conducting research on mobile robots under the guidance of Prof. Cao Yanjun. I graduated this year from Nanjing Institute of Technology (NJIT) with a degree in Mechanical and Electronic Engineering.
 
-In the future, I will also expand my research scope to include legged robots or wheeled robots. In my opinion, wheeled robots are the most efficient configuration for robots in artificial environments.
+During my time at NJIT, I was part of the All-terrain Vehicle Lab, where I gained valuable experience in independently building robotic systems.
 
-I am very interested in how robots will develop in the future, and I will devote myself to this research direction.
-If you are interested in my research or would like to have a talk, feel free to drop me an email.
+My primary research interests are motion planning and control for mobile robots. In the future, I plan to expand my focus to include legged robots or Wheel-legged robots, as I believe Wheel-legged robot are the most efficient configuration for navigating artificial environments.
+
+I am deeply fascinated by the future of robotics and am committed to advancing research in this field. If you're interested in discussing my work or potential collaborations, feel free to reach out to me via email.
+
+<font color='purple'>此段文字颜色为紫色</font>
 
 Publications
 ======
 
-Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces
-Mengke Zhang, Zhihao Tian, Chao Xu,Fei Gao,Yanjun Cao
 
-Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks
-Chice Xuan, Jiadong Lu, Zhihao Tian, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao
+<!-- ![cubetrack](../images/cubetrack.png)
+<img src="../images/cubetrack.png" width="300"/> -->
 
 
+<div style="display: flex; align-items: flex-start;">
+    <img src="../images/Etrep.png" alt="cubetrack" width="300" />
+    <p style="margin-left: 20px;">
+        <span style="font-size: 24px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces (submitted to ICRA 2025 )</span><br>
+        <span style="font-size: 16px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br><br>
+        <span style="font-size: 18px; ">In this paper, we propose a novel efficient planner for ground robots to autonomously navigate in large complex multi-layered architectural spaces.We first extract traversable planes from 3D point clouds,based on the different types of traversable planes, we apply specific constraints to maximize the robot’s maneuverability.</span><br>
+    </p>
+</div>
+<br>
+<br>
+<div style="display: flex; align-items: flex-start;">
+    <img src="../images/cubetrack.png" alt="cubetrack" width="300" />
+    <p style="margin-left: 20px;">
+        <span style="font-size: 24px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024)</span><br>
+        <span style="font-size: 16px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
+        <span style="font-size: 18px; ">This paper presents a reconfigurable tracked robot design featuring geometry-changing tracks. The proposed robot demonstrates exceptional terrain adaptability and obstacle-crossing capabilities by maintaining track tension through a novel Quad-slider Elliptical Trammel Mechanism (Qs-ETM).</span><br>
+    </p>
+</div>
+
+ 
+
+something insteresting i made before
+======
+
+
+
+<!-- Hi! I am currently a research assistant in the Fastlab(Fire),Zhejiang University (ZJU) and graduated from Nanjing Institute of Technology (NJIT) with a degree in mechanical and electronic engineering this year. I am currently conducting research on mobile robots under the guidance of Prof. Cao Yanjun. Before graduation, I studied robotics at NJIT's All-terrain Vehicle Lab, which requires members to be able to independently build a robotic system.
+
+My research interests are  motion planning and control for mobile robots. In the future, I will also expand my research scope to include legged robots or wheeled robots. In my opinion, wheeled robots are the most efficient configuration for robots in artificial environments.
+
+I am very interested in how robots will develop in the future, and I will devote myself to this research direction.If you are interested in my research or would like to have a talk, feel free to drop me an email. -->
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 
