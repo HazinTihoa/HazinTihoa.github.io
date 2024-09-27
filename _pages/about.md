@@ -15,13 +15,19 @@ My research interests are  motion planning and control for mobile robots. In the
 
 I am very interested in how robots will develop in the future, and I will devote myself to this research direction.If you are interested in my research or would like to have a talk, feel free to drop me an email. -->
 <div style="text-align: justify;">
-    Hi! I am currently a research assistant at the Fastlab (Fire) at Zhejiang University (ZJU), conducting research on mobile robots under the guidance of <a href="http://zju-fast.com/research-group/yanjun-cao/" target="_blank">Yanjun Cao</a>. I graduated this year from Nanjing Institute of Technology (NJIT) with a degree in Mechanical and Electronic Engineering. During my time at NJIT, I was part of the All-terrain Vehicle Lab, where I gained valuable experience in independently building robotic systems.<br>
-    My primary research interests are motion planning and control for mobile robots. In the future, I plan to expand my focus to include legged robots or wheel-legged robots, as I believe wheel-legged robots are the most efficient configuration for navigating artificial environments.<br>
+    Hi! I am currently a research assistant at the Fastlab (Fire) at Zhejiang University (ZJU), conducting research on mobile robots under the guidance of <a href="http://zju-fast.com/research-group/yanjun-cao/" target="_blank">Yanjun Cao</a>. I graduated this year from Nanjing Institute of Technology (NJIT) with a degree in Mechanical and Electronic Engineering. During my time at NJIT, I was part of the All-terrain Vehicle Lab, where I gained valuable experience in independently building robotic systems.<br><br>
+    My primary research interests are motion planning and control for mobile robots. In the future, I plan to expand my focus to include legged robots or wheel-legged robots, as I believe wheel-legged robots are the most efficient configuration for navigating artificial environments.<br><br>
     I am deeply fascinated by robotics's future and committed to advancing research in this field. If you're interested in discussing my work or potential collaborations, feel free to email me.
 </div><br>
 
 
-<font color='purple'>此段文字颜色为紫色</font>
+<!-- <font color='purple'>此段文字颜色为紫色</font> -->
+SKills
+======
+**Programing**: C/C++, python, ROS, Git, Matlab
+**Design**: Fusion 360, Recurdyn, Blender, Sloidworks, Altium Designer, 3D Printing
+**Microcontroller**: Raspberry Pi, Jetson Nano, Stm32, Esp32, Arduino, OpenMv, K210
+**Video edit**: Photoshop, Premier, After Effects
 
 Publications
 ======
