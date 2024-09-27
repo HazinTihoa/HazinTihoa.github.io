@@ -22,13 +22,17 @@ I am very interested in how robots will develop in the future, and I will devote
 
 
 <!-- <font color='purple'>此段文字颜色为紫色</font> -->
-SKills
+Skills
 ======
 
-**Programing**: C/C++, python, ROS, Git, Matlab
-**Design**: Fusion 360, Recurdyn, Blender, Sloidworks, Altium Designer, 3D Printing
-**Microcontroller**: Raspberry Pi, Jetson Nano, Stm32, Esp32, Arduino, OpenMv, K210
-**Video edit**: Photoshop, Premier, After Effects
+<div style="display: flex; align-items: flex-start;">
+    <p style="margin-left: 20px;">
+        <strong>Programing</strong>: C/C++, python, ROS, Git, Matlab<br>
+        <strong>Design</strong>: Fusion 360, Recurdyn, Blender, Sloidworks, Altium Designer, 3D Printing<br>
+        <strong>Microcontroller</strong>: Raspberry Pi, Jetson Nano, Stm32, Esp32, Arduino, OpenMv, K210<br>
+        <strong>Video edit</strong>: Photoshop, Premier, After Effects<br>
+    </p>
+</div>
 
 Publications
 ======
