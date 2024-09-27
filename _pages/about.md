@@ -51,7 +51,7 @@ Publications
     <p style="margin-left: 20px;">
         <span style="font-size: 24px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024)</span><br>
         <span style="font-size: 16px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
-        <span style="font-size: 18px; ">This paper presents a reconfigurable tracked robot design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
+        <span style="font-size: 18px; ">This paper presents a reconfigurable tracked robot(cubetrack) design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
     </p>
 </div>
 
@@ -64,10 +64,15 @@ something insteresting i made before
 <br>
 <img src="../images/corne-keyboard.png" width="300"/>
 <br>
-
+<img src="../images/5-dom arm.jpg" width="300"/>
+<br>
+<img src="../images/balance_car.png" width="300"/>
+<br>
+<img src="../images/cubetrack v0.png" width="300"/>
+<br>
 zhixing mini
 Smart City
-balance car 
+
 
 
 
