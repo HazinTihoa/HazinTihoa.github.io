@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+To view or download my CV as a PDF, [click here](/home/tzh/Awesome-CV/examples/cv.pdf).
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

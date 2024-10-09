@@ -20,6 +20,8 @@ I am very interested in how robots will develop in the future, and I will devote
     I am deeply fascinated by robotics's future and committed to advancing research in this field. If you're interested in discussing my work or potential collaborations, feel free to email me.
 </div>
 
+<br>
+
 Skills
 ======
 
