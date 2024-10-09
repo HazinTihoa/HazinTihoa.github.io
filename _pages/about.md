@@ -36,11 +36,10 @@ Skills
 
 Publications
 ======
+<br>
 
 
-
-![cubetrack](../images/cubetrack%20v0.png)
-<img src="../images/void.png" width="300"/> 
+<img src="../images/cubetrack.png" width="300"/> 
 
 
 
