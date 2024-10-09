@@ -39,8 +39,8 @@ Publications
 <br>
 
 
-<!-- ![cubetrack](../images/cubetrack.png)
-<img src="../images/cubetrack.png" width="300"/> -->
+![cubetrack](../images/cubetrack.png)
+<img src="../images/cubetrack.png" width="300"/>
 
 
 <div style="display: flex; align-items: flex-start;">
