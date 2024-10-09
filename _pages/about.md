@@ -81,7 +81,7 @@ Interesting projects I have built
 <br>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="images/5-dom%20arm" alt="arm" width="250" />
+    <img src="images/5-dom%20arm.jpg" alt="arm" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">A 5-DOF robotic arm mounted on a UAV</span><br>
         <span style="font-size: 16px; ">A robotic arm specially installed on the drone, driven by a servo, with a flexible gripper that can easily grab objects weighing 100g.</span><br>
