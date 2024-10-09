@@ -108,7 +108,7 @@ Interesting projects I have built
 <br>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/holocubic.png" alt="holocubic" width="250" />
+    <img src="../images/bio-photo-2.jpg" alt="holocubic" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">HoloCubic:Transparent display desktop station</span><br>
         <span style="font-size: 16px; ">The first hardware project completed during my college, it uses a beam splitter prism to achieve the effect of pseudo-holographic projection. It can display the time and weather in real time, or play animations.What's interesting is that it switches functions by changing the posture of the desktop.</span><br>
