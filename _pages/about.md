@@ -55,7 +55,7 @@ Publications
 <br>
 <br>
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/cubetrack.png" alt="cubetrack" width="300" />
+    <img src="images/cubetrack.png" alt="cubetrack" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 24px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024)</span><br>
         <span style="font-size: 16px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
