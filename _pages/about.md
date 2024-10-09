@@ -39,8 +39,8 @@ Publications
 
 
 
-<!-- ![cubetrack](../images/cubetrack.png)
-<img src="../images/cubetrack.png" width="300"/> -->
+<!-- ![cubetrack](../images/void.png)-->
+<img src="../images/void.png" width="300"/> 
 
 
 
