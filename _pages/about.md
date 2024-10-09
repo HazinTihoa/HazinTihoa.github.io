@@ -41,7 +41,7 @@ Publications
 
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://raw.githubusercontent.com/HazinTihoa/zhihaotian.github.io/master/images/Etrep.png"" alt="Etrep" width="300" />
+    <img src="https://raw.githubusercontent.com/HazinTihoa/zhihaotian.github.io/master/images/Etrep.png" alt="Etrep" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces (submitted to ICRA 2025)</span><br>
         <span style="font-size: 16px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br><br>
