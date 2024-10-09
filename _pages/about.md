@@ -44,7 +44,7 @@ Publications
 
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/Etrep.png" alt="cubetrack" width="300" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/Etrep.png" alt="Etrep" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces (submitted to ICRA 2025)</span><br>
         <span style="font-size: 16px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br><br>
@@ -74,7 +74,7 @@ Interesting projects I have built
 
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/corne-keyboard.png" alt="keyboard" width="250" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/corne-keyboard.png" alt="keyboard" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">A split Bluetooth keyboard</span><br>
         <span style="font-size: 18px; ">Free your hands regardless of keyboard size（Not easy to use）</span><br>
@@ -84,7 +84,7 @@ Interesting projects I have built
 <br>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/5-dom arm.jpg" alt="arm" width="250" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/5-dom%20arm.jpg" alt="arm" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">A 5-DOF robotic arm mounted on a UAV</span><br>
         <span style="font-size: 16px; ">A robotic arm specially installed on the drone, driven by a servo, with a flexible gripper that can easily grab objects weighing 100g.</span><br>
@@ -95,7 +95,7 @@ Interesting projects I have built
 <br>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/cubetrack v0.png" alt="cubetrack" width="250" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/cubetrack%20v0.png" alt="cubetrack" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">The first version of CubeTrack</span><br>
         <span style="font-size: 16px; ">I made this version of cubetrack with Zelong Xia, Chice Xuan, it has many flaws in hardware and program, but it is really cute and tiny, it only has a footprint of 50cm*40cm, but it can climb stairs at a speed of 1m/s, and then the system crashed...</span><br>
@@ -106,7 +106,7 @@ Interesting projects I have built
 <br>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/bio-photo-2.jpg" alt="holocubic" width="250" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/holocubic.png" alt="holocubic" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">HoloCubic:Transparent display desktop station</span><br>
         <span style="font-size: 16px; ">The first hardware project completed during my college, it uses a beam splitter prism to achieve the effect of pseudo-holographic projection. It can display the time and weather in real time, or play animations.What's interesting is that it switches functions by changing the posture of the desktop.</span><br>
@@ -115,7 +115,7 @@ Interesting projects I have built
 </div>
 <br>
 <div style="display: flex; align-items: flex-start;">
-    <img src="../images/balance_car.png" alt="balance_car" width="250" />
+    <img src="https://github.com/HazinTihoa/zhihaotian.github.io/blob/master/images/balance_car.png" alt="balance_car" width="250" />
     <p style="margin-left: 20px;">
         <span style="font-size: 20px; font-weight: bold; ">Balance Car</span><br>
         <span style="font-size: 16px; ">Equipped with imu to obtain the status of the balance car, maintain balance through pid control, and can use a smartphone to control movement via Bluetooth</span><br>
