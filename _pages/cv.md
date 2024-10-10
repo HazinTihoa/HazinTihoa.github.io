@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-To view or download my CV as a PDF, [click here](files/zhihaoCV.pdf).
+To view or download my CV as a PDF, [click here](../files/zhihaoCV.pdf).
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
