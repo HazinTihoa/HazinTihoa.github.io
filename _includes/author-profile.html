@@ -38,6 +38,10 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
+         <!-- 添加 CV 链接 -->
+      {% if author.cv %}
+      <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>CV</a></li>
+      {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
