@@ -17,6 +17,7 @@ I am very interested in how robots will develop in the future, and I will devote
 <div style="text-align: justify;">
     Hi! I am currently a research assistant at the Fastlab (Fire) at Zhejiang University (ZJU), conducting research on mobile robots under the guidance of <a href="http://zju-fast.com/research-group/yanjun-cao/" target="_blank">Yanjun Cao</a>. I graduated this year from Nanjing Institute of Technology (NJIT) with a degree in Mechanical and Electronic Engineering. During my time at NJIT, I was part of the All-terrain Vehicle Lab, where I gained valuable experience in independently building robotic systems.<br><br>
     My primary research interests are motion planning and control for mobile robots. In the future, I plan to expand my focus to include legged robots or wheel-legged robots, as I believe wheel-legged robots are the most efficient configuration for navigating artificial environments.<br><br>
+    I believe robotics should solve structural challenges beyond biological evolution—like combining wheels with multi-jointed legs, a structure evolution alone cannot achieve. Robotics can make this possible, allowing us to fully harness a robot's capabilities through autonomous control to perform tasks impossible for biological species or hazardous for humans. This vision fuels my passion for mobile robots, especially wheeled-legged designs.<br><br>
     I am deeply fascinated by robotics's future and committed to advancing research in this field. If you're interested in discussing my work or potential collaborations, feel free to email me.
 </div>
 
@@ -27,8 +28,8 @@ Skills
 
 <div style="display: flex; align-items: flex-start;">
     <p style="margin-left: 20px;">
-        <strong>Programing</strong>: C/C++, python, ROS, Git, Matlab<br>
-        <strong>Design</strong>: Fusion 360, Recurdyn, Blender, Sloidworks, Altium Designer, 3D Printing<br>
+        <strong>Programing</strong>: C/C++, python, ROS, Git, LaTeX, Matlab<br>
+        <strong>Design</strong>: Fusion 360, Recurdyn, Blender, Sloidworks, Altium Designer, 3D Printing, CNC<br>
         <strong>Microcontroller</strong>: Raspberry Pi, Jetson Nano, Stm32, Esp32, Arduino, OpenMv, K210<br>
         <strong>Video edit</strong>: Photoshop, Premier, After Effects<br>
     </p>
@@ -52,7 +53,6 @@ Publications
 
 <div style="text-align: justify;">
 </div>
-<br>
 <br>
 <div style="display: flex; align-items: flex-start;">
     <img src="images/cubetrack.png" alt="cubetrack" width="300" />
