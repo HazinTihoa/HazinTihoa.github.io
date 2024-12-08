@@ -21,7 +21,7 @@ repository               : "https://github.com/HazinTihoa?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tzh.png"
   name             : "Zhihao Tian"
   pronouns         : # example: "she/her"  
   bio              : "applying for PhD"
