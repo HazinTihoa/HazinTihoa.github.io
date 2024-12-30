@@ -61,8 +61,6 @@ Publications
         <span style="font-size: 14px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br>
         <span style="font-size: 18px; ">This paper presents a reconfigurable tracked robot(cubetrack) design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
         <a href="https://ieeexplore.ieee.org/abstract/document/10802301" target="_blank">Paper</a> | <a href="https://www.bilibili.com/video/BV1SM4m1y72C/?" target="_blank">Video</a>
-
-    </p>
     </p>
 </div>
 
