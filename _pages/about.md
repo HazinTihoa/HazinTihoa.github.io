@@ -45,7 +45,7 @@ Publications
     <img src="https://raw.githubusercontent.com/HazinTihoa/zhihaotian.github.io/master/images/Etrep.png" alt="Etrep" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 24px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces (submitted to ICRA 2025)</span><br>
-        <span style="font-size: 16px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br><br>
+        <span style="font-size: 14px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br>
         <span style="font-size: 18px; ">In this paper, we propose a novel efficient planner for ground robots to autonomously navigate in large complex multi-layered architectural spaces.</span><br>
         <!-- We first extract traversable planes from 3D point clouds,based on the different types of traversable planes, we apply specific constraints to maximize the robot’s maneuverability. -->
     </p>
@@ -58,10 +58,14 @@ Publications
     <img src="images/cubetrack.png" alt="cubetrack" width="300" />
     <p style="margin-left: 20px;">
         <span style="font-size: 24px; font-weight: bold; ">Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks (IROS 2024)</span><br>
-        <span style="font-size: 16px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br><br>
+        <span style="font-size: 14px;">Chice Xuan<sup>†</sup>, Jiadong Lu,<sup>†</sup> <strong>Zhihao Tian</strong>, Jiacheng Li, Mengke Zhang, Hanbin Xie, Jianxiong Qiu, Chao Xu, and Yanjun Cao</span><br>
         <span style="font-size: 18px; ">This paper presents a reconfigurable tracked robot(cubetrack) design featuring geometry-changing tracks,which demonstrates exceptional terrain adaptability and obstacle-crossing capabilities </span><br>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10802301" target="_blank">Paper</a> | <a href="https://www.bilibili.com/video/BV1SM4m1y72C/?" target="_blank">Video</a></span><br>
+
+    </p>
     </p>
 </div>
+
 
  
 
