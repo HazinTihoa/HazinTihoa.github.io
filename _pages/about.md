@@ -44,7 +44,7 @@ Publications
 <div style="display: flex; align-items: flex-start;">
     <img src="https://raw.githubusercontent.com/HazinTihoa/zhihaotian.github.io/master/images/Etrep.png" alt="Etrep" width="300" />
     <p style="margin-left: 20px;">
-        <span style="font-size: 24px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architec -tural Spaces (ICRA 2025)</span><br>
+        <span style="font-size: 24px; font-weight: bold; ">Eﬀicient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces (ICRA 2025)</span><br>
         <span style="font-size: 14px;">Mengke Zhang<sup>†</sup>,  <strong>Zhihao Tian</strong><sup>†</sup>, Chao Xu, Fei Gao, Yanjun Cao</span><br>
         <span style="font-size: 18px; ">In this paper, we propose a novel efficient planner for ground robots to autonomously navigate in large complex multi-layered architectural spaces.</span><br>
         <!-- We first extract traversable planes from 3D point clouds,based on the different types of traversable planes, we apply specific constraints to maximize the robot’s maneuverability. -->
@@ -67,7 +67,7 @@ Publications
 
  
 
-Interesting projects I have built
+Interesting projects 
 ======
 
 
